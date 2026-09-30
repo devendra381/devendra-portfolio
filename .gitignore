@@ -1,0 +1,9 @@
+backend/node_modules/
+backend/.env
+
+devendra-portfolio/node_modules/
+devendra-portfolio/dist/
+
+*.log
+.DS_Store
+Thumbs.db
